@@ -14,6 +14,7 @@ ___________
 ### How to use
 
 ### Photos of project:
+![](img/manageherosection.png)
 
 ### Apps used:
 [Sublime Text](https://www.sublimetext.com/)
